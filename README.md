@@ -6,8 +6,10 @@ Sebuah library/pustaka sederhana untuk menyapa pengguna di terminal, ditulis men
 haxelib install sapa
 ```
 ## Contoh penggunaan:
+```(haxe}
 // Main.hx
 
 import haxe.sapa.User;
 
 trace(User.sapa("Budi", 30, "Jakarta");
+```
