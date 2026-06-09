@@ -1,2 +1,13 @@
 # sapa-haxe
-Ini adalah sebuah contoh projek repositori untuk library/pustaka haxe bernama "sapa".
+Sebuah library/pustaka sederhana untuk menyapa pengguna di terminal, ditulis menggunakan bahasa Haxe.
+
+## Instalasi:
+```{bash}
+haxelib install sapa
+```
+## Contoh penggunaan:
+// Main.hx
+
+import haxe.sapa.User;
+
+trace(User.sapa("Budi", 30, "Jakarta");
