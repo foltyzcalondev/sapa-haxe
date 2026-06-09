@@ -1,0 +1,11 @@
+{
+  "name": "sapa",
+  "version": "1.0.0",
+  "description": "Sebuah library/pustaka sederhana yang digunakan untuk menyapa pengguna di terminal.",
+  "license": "MIT",
+  "licenseUrl": "https://github.com/foltyzcalondev/sapa-haxe/blob/main/LICENSE",
+  "url": "https://github.com/foltyzcalondev/sapa-haxe",
+  "tags": ["sapa", "contoh", "example", "misal", "percobaan", "testing", "greeting", "menyapa", "sapaan"],
+  "dependencies": {
+     "hxlog": ">= 1.0.0"
+  }
