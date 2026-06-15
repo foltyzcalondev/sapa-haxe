@@ -6,6 +6,7 @@
   "licenseUrl": "https://github.com/foltyzcalondev/sapa-haxe/blob/main/LICENSE",
   "url": "https://github.com/foltyzcalondev/sapa-haxe",
   "tags": ["sapa", "contoh", "example", "misal", "percobaan", "testing", "greeting", "menyapa", "sapaan"],
+  "classPath": "src",
   "dependencies": {
      "hxlog": ">= 1.0.0"
   }
