@@ -9,7 +9,7 @@ haxelib install sapa
 ```(haxe}
 // Main.hx
 
-import haxe.sapa.User;
+import sapa.User;
 
 class Main {
   static function main() {
