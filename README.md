@@ -11,5 +11,9 @@ haxelib install sapa
 
 import haxe.sapa.User;
 
-trace(User.sapa("Budi", 30, "Jakarta");
+class Main {
+  static function main() {
+    trace(User.sapa("Budi", 30, "Jakarta");
+  }
+}
 ```
